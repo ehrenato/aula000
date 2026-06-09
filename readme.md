@@ -1,2 +1,4 @@
 Começando o projeto
-Versão 1.0
+Versão 2.0
+
+Atualização do readme
